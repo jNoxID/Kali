@@ -1,4 +1,4 @@
-# Kali
+# KaliPack
 
 ## Quelques programmes disponibles pour Kali
 
